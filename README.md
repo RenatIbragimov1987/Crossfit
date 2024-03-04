@@ -1,1 +1,1 @@
-[Crossfit](https://github.com/RenatIbragimov1987/Crossfit/blob/main/index.html)
+[Crossfit](https://renatibragimov1987.github.io/crossfit/index.html)
